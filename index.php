@@ -7,5 +7,6 @@
 </head>
 <body>
     <?php echo "Hello World"; ?>
+    <h1>Whats up?</h1>
 </body>
 </html>
