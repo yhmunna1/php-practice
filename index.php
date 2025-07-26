@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello";
+echo "Hello \n";
 
 $name = "Munna";
 echo "Nam, {$name}";
