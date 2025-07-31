@@ -13,3 +13,7 @@ echo "$name \n";
 // Declare Constant value (Not change able)
 define('PI', 3.1419);
 echo "Value of PI is " .PI;
+echo "\n";
+
+// Check variable
+var_dump($name);
